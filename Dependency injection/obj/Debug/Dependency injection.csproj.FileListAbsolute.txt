@@ -1,0 +1,27 @@
+C:\Users\touqeera\source\repos\Dependency injection\Dependency injection\bin\Debug\Dependency injection.exe.config
+C:\Users\touqeera\source\repos\Dependency injection\Dependency injection\bin\Debug\Dependency injection.exe
+C:\Users\touqeera\source\repos\Dependency injection\Dependency injection\bin\Debug\Dependency injection.pdb
+C:\Users\touqeera\source\repos\Dependency injection\Dependency injection\bin\Debug\Autofac.dll
+C:\Users\touqeera\source\repos\Dependency injection\Dependency injection\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\touqeera\source\repos\Dependency injection\Dependency injection\bin\Debug\System.Buffers.dll
+C:\Users\touqeera\source\repos\Dependency injection\Dependency injection\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\touqeera\source\repos\Dependency injection\Dependency injection\bin\Debug\System.Memory.dll
+C:\Users\touqeera\source\repos\Dependency injection\Dependency injection\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\touqeera\source\repos\Dependency injection\Dependency injection\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\touqeera\source\repos\Dependency injection\Dependency injection\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\touqeera\source\repos\Dependency injection\Dependency injection\bin\Debug\Autofac.pdb
+C:\Users\touqeera\source\repos\Dependency injection\Dependency injection\bin\Debug\Autofac.xml
+C:\Users\touqeera\source\repos\Dependency injection\Dependency injection\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\touqeera\source\repos\Dependency injection\Dependency injection\bin\Debug\System.Buffers.xml
+C:\Users\touqeera\source\repos\Dependency injection\Dependency injection\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\touqeera\source\repos\Dependency injection\Dependency injection\bin\Debug\System.Memory.xml
+C:\Users\touqeera\source\repos\Dependency injection\Dependency injection\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\touqeera\source\repos\Dependency injection\Dependency injection\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\touqeera\source\repos\Dependency injection\Dependency injection\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\touqeera\source\repos\Dependency injection\Dependency injection\obj\Debug\Dependency injection.csprojAssemblyReference.cache
+C:\Users\touqeera\source\repos\Dependency injection\Dependency injection\obj\Debug\Dependency injection.csproj.CoreCompileInputs.cache
+C:\Users\touqeera\source\repos\Dependency injection\Dependency injection\obj\Debug\Dependency injection.csproj.CopyComplete
+C:\Users\touqeera\source\repos\Dependency injection\Dependency injection\obj\Debug\Dependency injection.exe
+C:\Users\touqeera\source\repos\Dependency injection\Dependency injection\obj\Debug\Dependency injection.pdb
+C:\Users\touqeera\source\repos\Dependency injection\Dependency injection\bin\Debug\DemoLibrary.dll
+C:\Users\touqeera\source\repos\Dependency injection\Dependency injection\bin\Debug\DemoLibrary.pdb
